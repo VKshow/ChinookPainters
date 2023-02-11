@@ -40,6 +40,9 @@
 }
 
 @media (max-width: 896px){
+    .header{
+        padding: 12px 25px;
+    }
     .nav{
         width: 0;
         margin-left: 45%;
@@ -192,6 +195,10 @@
         font-size: 77px;
         background: transparent;
     }
+    .fixed {
+        height: 12%;
+    }
+
 }
 
 @media (max-width: 377px){
