@@ -10,10 +10,10 @@ $(document).ready(function(){
         nextArrow: '<button type="button" class="slick-next"><img class="slider__arrow" src="icons/right.png"></button>',
         responsive: [
             {
-                breakpoint: 1800,
+                breakpoint: 896,
                 settings: {
                     dots: true,
-                    arrows: false
+                    arrows: true
                 }
             }
         ]

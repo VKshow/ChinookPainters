@@ -53,7 +53,7 @@
     left: auto;
     right: -66px;
     border: none;
-    background-color: white;
+    /* background-color: white; */
 }
 .slik-next img{
     width: 31px;
